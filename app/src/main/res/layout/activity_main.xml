@@ -100,8 +100,8 @@
 
     <EditText
         android:id="@+id/editTextMultiLineSubMsg"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="335dp"
+        android:layout_height="79dp"
         android:layout_marginTop="28dp"
         android:ems="10"
         android:gravity="start|top"
